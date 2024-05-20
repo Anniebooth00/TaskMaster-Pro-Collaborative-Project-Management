@@ -23,9 +23,9 @@ WHEN I click the delete button for a task, THEN the task is removed from the tas
 WHEN I refresh the page, THEN the saved tasks persist.
 
 ## Screenshots
-![Home page todo](./Assets/ToDoImg.png)
-![Create Task Modal](./Assets/CreateTaskImg.png)
-![Adding Tasks](./Assets/ProgressDoneImg.png)
+![Home page todo](./assets/ToDoImg.png)
+![Create Task Modal](./assets/CreateTaskImg.png)
+![Adding Tasks](./assets/ProgressDoneImg.png)
 
 ## Deployed Application
 [Link to Deployed Application](https://anniebooth00.github.io/Web-APIs-Challenge-Personal-Blog/index.html)
