@@ -28,7 +28,7 @@ WHEN I refresh the page, THEN the saved tasks persist.
 ![Adding Tasks](./assets/ProgressDoneImg.png)
 
 ## Deployed Application
-[Link to Deployed Application](https://anniebooth00.github.io/Web-APIs-Challenge-Personal-Blog/index.html)
+[Link to Deployed Application]([https://anniebooth00.github.io/Web-APIs-Challenge-Personal-Blog/index.html](https://anniebooth00.github.io/TaskMaster-Pro-Collaborative-Project-Management/))
 
 ## Usage
 This application is ideal for project teams needing a straightforward way to manage and track the progress of their tasks.
